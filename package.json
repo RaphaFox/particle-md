@@ -1,0 +1,14 @@
+{
+    "name": "particle-todo",
+    "type": "module",
+    "private": true,
+    "scripts": {
+        "start": "bun run src/index.html"
+    },
+    "devDependencies": {
+        "@types/bun": "latest"
+    },
+    "peerDependencies": {
+        "typescript": "^5"
+    }
+}
